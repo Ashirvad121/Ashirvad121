@@ -53,7 +53,7 @@
  
  ### Badges
 
-<b>My GitHub Stats</b>
+<b align="center">My GitHub Stats</b>
 
 <a href="http://www.github.com/Ashirvad121"><img src="https://github-readme-stats.vercel.app/api?username=Ashirvad121&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Ashirvad121's GitHub stats" /></a>
 
