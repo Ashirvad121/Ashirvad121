@@ -50,6 +50,18 @@
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" width="72" height="36" alt="Spring" /></a>
+ 
+ ### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Ashirvad121"><img src="https://github-readme-stats.vercel.app/api?username=Ashirvad121&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Ashirvad121's GitHub stats" /></a>
+
+<a href="http://www.github.com/Ashirvad121"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashirvad121&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Ashirvad121"><img src="https://activity-graph.herokuapp.com/graph?username=Ashirvad121&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Ashirvad121" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirvad121&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ---
 
