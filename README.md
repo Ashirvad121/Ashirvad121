@@ -46,7 +46,7 @@
    
   <img margin="20" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /> 
   <img margin="20" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-  <img margin="20" src="https://ashirvad121.github.io/images/spring.svg" alt="spring" height="35"/>
+  <img margin="40" src="https://ashirvad121.github.io/images/spring.svg" alt="spring" height="35"/>
   <img margin="20" src="https://ashirvad121.github.io/images/hibernatesvg.svg" alt="hibernate" height="35"/>
   <img margin="20"  src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
   <img margin="20" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
