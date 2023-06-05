@@ -13,10 +13,10 @@
 ---
 
 ## I'm a Software Engineer and Life Long Learner!
-- 🌱 I’m currently Learning Java Backend at Masai School.
+- 🌱 I am a Java Backend Developer.
 - 🌏 Looking to solve real-world problems.
 - 💻 I'm passionate about coding.
-- 💬 Ask me about Javascript, HTML, CSS, Java, Spring boot, Mysql, Git, Hibernate
+- 💬 Ask me about Java, Spring boot, Mysql, Hibernate, JDBC, Spring Security, HTML, CSS, Javascript
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
